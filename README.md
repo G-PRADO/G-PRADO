@@ -24,7 +24,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/G-PRADO/G-PRADO/output/snake.svg" alt="Snake animation" />
-
-###

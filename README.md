@@ -6,7 +6,7 @@
 
   - 🌱 I’m currently studying computer science and Mobile programming. 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work in Mobile development.
+  - 🔭 I am looking for a job opportunity. My goal is to become a Mobile Developer.
 </p>
 
 <!-- Dropdown -->

@@ -17,7 +17,7 @@
   
   - 📚 I'm studying Databases and improving my English 
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I like reading, whether it's a good book, manga or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and improve problem solving. \the/
 </details><BR><BR>
 
 

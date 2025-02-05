@@ -2,8 +2,8 @@
 
 
 <p>
-  Hi 👋, I'm Gustavo! A passionate Computer Science student from Brazil.
-
+  - 👋 Hello, I'm Gustavo! A programming student passionate about technology.
+  
   - 🌱 I have a degree in computer science
 
   - 🔭 I am looking for a job opportunity. My goal is to become a Developer.

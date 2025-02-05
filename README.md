@@ -4,16 +4,18 @@
 <p>
   Hi 👋, I'm Gustavo! A passionate Computer Science student from Brazil.
 
-  - 🌱 I’m currently studying computer science and Mobile programming. 
+  - 🌱 I have a degree in computer science
 
-  - 🔭 I am looking for a job opportunity. My goal is to become a Mobile Developer.
+  - 🔭 I am looking for a job opportunity. My goal is to become a Developer.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 25 years old, currently living in Brazil.  have experience with React Native, JavaScript, Node.js, HTML, CSS.
+  - 💬 I'm 26 years old, currently living in Brazil. have experience with HTML, CSS, JavaScript, React, React Native, API reset, Node.js, Git e Scrum.
+  
+  - 📚 I'm studying Databases and improving my English 
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details><BR><BR>
